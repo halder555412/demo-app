@@ -10,6 +10,6 @@ public class Print {
 
     @GetMapping("/print")
     public String print(){
-        return "This is test for deployment CI/CD ";
+        return "This is test for deployment CI/CD  for test";
     }
 }
